@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActionBarExample2</string>
+
+    <string name="action_items_content">액션 아이템을 적용한 기본 예제입니다.</string>
+    <string name="action_modes_content">선택했을때 액션바가 활성화되는 경우입니다. 선택메뉴를 길게 눌렀을 때 표시되거나, 크롬에서 복사할 위치를 길게 누르면 복사메뉴가 뜨는 경우를 보셨을 겁니다. 그런 경우에 적용이 가능한 액션바의 예입니다.</string>
+    <string name="collapsible_content">검색 액션바입니다.</string>
+
+</resources>
